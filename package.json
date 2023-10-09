@@ -1,0 +1,20 @@
+{
+  "name": "htf23-team-110",
+  "version": "1.0.0",
+  "description": "In this Readme, you will find a guide on how to fork this Repository, add files to it, and make a pull request to contribute your changes.",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.0",
+    "nodemon": "^3.0.1"
+  }
+}
